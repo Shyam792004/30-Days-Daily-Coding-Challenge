@@ -4,3 +4,5 @@ I am thrilled to kick off my '30 Days Daily Coding Contest' today! 💻📅 Over
 Here are the updates :
 
 Day 1 Coding Challenge: 13/10/2023 LeetCode - Roman To Integer || HackerRank - Java Anagrams || GreeksForGreeks - Roman Number To Integer||
+
+Day 2 Coding Challenge: 13/10/2023 LeetCode - Remove Duplicates from Sorted Array || HackerRank - Java Loops II || GreeksForGreeks - Finding middle element in a linked list||
