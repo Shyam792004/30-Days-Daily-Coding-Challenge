@@ -10,3 +10,5 @@ Day 2 Coding Challenge: 14/10/2023 LeetCode - Remove Duplicates from Sorted Arra
 Day 3 Coding Challenge: 15/10/2023 LeetCode - Palindrome Number || HackerRank - Java Output Formatting || GreeksForGreeks - k if two arrays are equal or not||
 
 Day 4 Coding Challenge: 16/10/2023 LeetCode - Remove Duplicates from Sorted Array II || HackerRank - Java String Tokens || GreeksForGreeks - Number of occurrence||
+
+Day 5 Coding Challenge: 18/10/2023 LeetCode - Remove Element || HackerRank - Java Subarray || GreeksForGreeks - Smallest greater elements in whole array||
