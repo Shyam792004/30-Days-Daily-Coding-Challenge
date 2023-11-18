@@ -12,3 +12,5 @@ Day 3 Coding Challenge: 15/11/2023 LeetCode - Palindrome Number || HackerRank - 
 Day 4 Coding Challenge: 16/11/2023 LeetCode - Remove Duplicates from Sorted Array II || HackerRank - Java String Tokens || GreeksForGreeks - Number of occurrence||
 
 Day 5 Coding Challenge: 18/11/2023 LeetCode - Remove Element || HackerRank - Java Subarray || GreeksForGreeks - Smallest greater elements in whole array||
+
+Day 6 Coding Challenge: 19/11/2023 LeetCode - Best Time To Sell And Buy Stock || HackerRank - Java Of File || GreeksForGreeks - Missing Number in the Array||
