@@ -1,0 +1,41 @@
+C++ Array (print an element) | Set 2
+Given an array A[] of N integers and an index Key. Your task is to return the element present at index key in the array.
+
+Example 1:
+
+Input:
+5 2
+10 20 30 40 50
+Output:
+30
+ 
+
+Example 2:
+
+Input:
+7 4
+10 20 30 40 50 60 70
+Output:
+50
+
+CODING:
+Given an array A[] of N integers and an index Key. Your task is to return the element present at index key in the array.
+
+ 
+
+Example 1:
+
+Input:
+5 2
+10 20 30 40 50
+Output:
+30
+ 
+
+Example 2:
+
+Input:
+7 4
+10 20 30 40 50 60 70
+Output:
+50
