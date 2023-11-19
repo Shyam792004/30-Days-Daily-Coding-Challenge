@@ -14,3 +14,6 @@ Day 4 Coding Challenge: 16/11/2023 LeetCode - Remove Duplicates from Sorted Arra
 Day 5 Coding Challenge: 18/11/2023 LeetCode - Remove Element || HackerRank - Java Subarray || GreeksForGreeks - Smallest greater elements in whole array||
 
 Day 6 Coding Challenge: 19/11/2023 LeetCode - Best Time To Sell And Buy Stock || HackerRank - Java Of File || GreeksForGreeks - Missing Number in the Array||
+
+Day 7 Coding Challenge: 20/11/2023 LeetCode - Reverse Words In A String || HackerRank - Java Static Initializer Block || GreeksForGreeks - 
+C++ Array (print an element) | Set 2||
