@@ -11,11 +11,11 @@ Day 3 Coding Challenge: 15/11/2023 LeetCode - Palindrome Number || HackerRank - 
 
 Day 4 Coding Challenge: 16/11/2023 LeetCode - Remove Duplicates from Sorted Array II || HackerRank - Java String Tokens || GreeksForGreeks - Number of occurrence||
 
-Day 5 Coding Challenge: 18/11/2023 LeetCode - Remove Element || HackerRank - Java Subarray || GreeksForGreeks - Smallest greater elements in whole array||
+Day 5 Coding Challenge: 17/11/2023 LeetCode - Remove Element || HackerRank - Java Subarray || GreeksForGreeks - Smallest greater elements in whole array||
 
-Day 6 Coding Challenge: 19/11/2023 LeetCode - Best Time To Sell And Buy Stock || HackerRank - Java Of File || GreeksForGreeks - Missing Number in the Array||
+Day 6 Coding Challenge: 18/11/2023 LeetCode - Best Time To Sell And Buy Stock || HackerRank - Java Of File || GreeksForGreeks - Missing Number in the Array||
 
-Day 7 Coding Challenge: 20/11/2023 LeetCode - Reverse Words In A String || HackerRank - Java Static Initializer Block || GreeksForGreeks - 
+Day 7 Coding Challenge: 19/11/2023 LeetCode - Reverse Words In A String || HackerRank - Java Static Initializer Block || GreeksForGreeks - 
 C++ Array (print an element) | Set 2||
 
-Day 8 Coding Challenge: 21/11/2023 LeetCode - Plus One || HackerRank - Inheritance || GreeksForGreeks - for loop-prime check||
+Day 8 Coding Challenge: 20/11/2023 LeetCode - Plus One || HackerRank - Inheritance || GreeksForGreeks - for loop-prime check||
