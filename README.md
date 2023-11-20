@@ -17,3 +17,5 @@ Day 6 Coding Challenge: 19/11/2023 LeetCode - Best Time To Sell And Buy Stock ||
 
 Day 7 Coding Challenge: 20/11/2023 LeetCode - Reverse Words In A String || HackerRank - Java Static Initializer Block || GreeksForGreeks - 
 C++ Array (print an element) | Set 2||
+
+Day 8 Coding Challenge: 21/11/2023 LeetCode - Plus One || HackerRank - Inheritance || GreeksForGreeks - for loop-prime check||
