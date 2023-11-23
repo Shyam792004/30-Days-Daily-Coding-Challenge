@@ -1,0 +1,71 @@
+Product of Prime Factors
+
+Given a number N find the product of all unique prime factors of that number.
+ 
+
+Example 1:
+
+Input:
+N = 5
+Output:
+5
+Explanation:
+5 has 1 prime factor 
+i.e 5 only.
+
+Example 2:
+
+Input:
+N = 24
+Output:
+6
+
+
+
+CODING:
+class Solution{
+    bool isprime(int num)
+    {
+        for(int i=2;i<num;i++)
+        {
+            if(num%i==0)
+            {
+                return false;
+                
+            }
+        }
+        return true;
+    }
+public: 
+    long long int primeProduct(int N){
+        //code here
+        
+        long long prod=1;
+        vector<int>v;
+       
+        for(int i=2;i<=N;i++)
+        {
+            if(N%i==0)
+            {
+                // if(isprime(i))
+                // {
+              
+                   v.push_back(i);
+                //   break;
+                // }
+                
+               
+            }
+        }
+        for(int i=0;i<v.size();i++)
+        {
+        if(isprime(v[i]))
+        {
+          prod=prod*v[i];
+            
+        // cout<<v[i]<<" ";
+        }
+        }
+        return prod;
+    }
+};
