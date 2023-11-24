@@ -19,3 +19,5 @@ Day 7 Coding Challenge: 19/11/2023 LeetCode - Reverse Words In A String || Hacke
 C++ Array (print an element) | Set 2||
 
 Day 8 Coding Challenge: 20/11/2023 LeetCode - Plus One || HackerRank - Inheritance || GreeksForGreeks - for loop-prime check||
+
+Day 8 Coding Challenge: 24/11/2023 LeetCode - Majority Element || HackerRank - Output formatting  || GreeksForGreeks - Kth smallest element||
