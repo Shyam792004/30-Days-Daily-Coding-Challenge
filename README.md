@@ -20,4 +20,6 @@ C++ Array (print an element) | Set 2||
 
 Day 8 Coding Challenge: 20/11/2023 LeetCode - Plus One || HackerRank - Inheritance || GreeksForGreeks - for loop-prime check||
 
-Day 8 Coding Challenge: 24/11/2023 LeetCode - Majority Element || HackerRank - Output formatting  || GreeksForGreeks - Kth smallest element||
+Day 9 Coding Challenge: 24/11/2023 LeetCode - Majority Element || HackerRank - Output formatting  || GreeksForGreeks - Kth smallest element||
+
+Day 12 Coding Challenge: 25/11/2023 LeetCode - Valid Anagram || HackerRank - Java Currency Formatter  || GreeksForGreeks - Missing number in an array||
