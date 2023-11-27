@@ -1,0 +1,23 @@
+k largest elements
+
+
+Given an array Arr of N positive integers and an integer K, find K largest elements from the array.  The output elements should be printed in decreasing order.
+
+Example 1:
+
+Input:
+N = 5, K = 2
+Arr[] = {12, 5, 787, 1, 23}
+Output: 787 23
+Explanation: 1st largest element in the
+array is 787 and second largest is 23.
+
+CODING:
+
+class Solution:
+
+    def kLargest(self,arr, n, k):
+        # code here
+        arr.sort();
+        arr.reverse();
+        return arr[:k];
