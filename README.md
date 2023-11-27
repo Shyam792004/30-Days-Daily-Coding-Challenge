@@ -23,3 +23,5 @@ Day 8 Coding Challenge: 20/11/2023 LeetCode - Plus One || HackerRank - Inheritan
 Day 9 Coding Challenge: 24/11/2023 LeetCode - Majority Element || HackerRank - Output formatting  || GreeksForGreeks - Kth smallest element||
 
 Day 12 Coding Challenge: 25/11/2023 LeetCode - Valid Anagram || HackerRank - Java Currency Formatter  || GreeksForGreeks - Missing number in an array||
+
+Day 13 Coding Challenge: 25/11/2023 LeetCode - Is Subsequence || HackerRank - Valid Username Regular Expression  || GreeksForGreeks - k largest elements||
