@@ -24,4 +24,7 @@ Day 9 Coding Challenge: 24/11/2023 LeetCode - Majority Element || HackerRank - O
 
 Day 12 Coding Challenge: 25/11/2023 LeetCode - Valid Anagram || HackerRank - Java Currency Formatter  || GreeksForGreeks - Missing number in an array||
 
-Day 13 Coding Challenge: 25/11/2023 LeetCode - Is Subsequence || HackerRank - Valid Username Regular Expression  || GreeksForGreeks - k largest elements||
+Day 13 Coding Challenge: 26/11/2023 LeetCode - Is Subsequence || HackerRank - Valid Username Regular Expression  || GreeksForGreeks - k largest elements||
+
+Day 14 Coding Challenge: 27/11/2023 LeetCode - Rotate Array || HackerRank - Java Substring Comparisons
+ || GreeksForGreeks - Searching in an array where adjacent differ by at most k ||
