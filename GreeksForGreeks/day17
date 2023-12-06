@@ -1,0 +1,122 @@
+least prime factor
+
+Given a number N, find the least prime factors for all numbers from 1 to N.  The least prime factor of an integer X is the smallest prime number that divides it.
+Note :
+
+1 needs to be printed for 1.
+You need to return an array/vector/list of size N+1 and need to use 1-based indexing to store the answer for each number.
+Example 1:
+
+Input: N = 6
+Output: [0, 1, 2, 3, 2, 5, 2] 
+Explanation: least prime factor of 1 = 1,
+least prime factor of 2 = 2,
+least prime factor of 3 = 3,
+least prime factor of 4 = 2,
+least prime factor of 5 = 5,
+least prime factor of 6 = 2.
+So answer is[1, 2, 3, 2, 5, 2]. 
+Example 2:
+
+Input: N = 4
+Output: [0, 1, 2, 3, 2]
+Explanation: least prime factor of 1 = 1,
+least prime factor of 2 = 2,
+least prime factor of 3 = 3,
+least prime factor of 4 = 2.
+So answer is[1, 2, 3, 2]. 
+
+CODING:
+
+geeksforgeeks
+avatar
+My Profile
+My Courses
+Leaderboard
+Go Premium
+Transaction History
+Saved Videos
+Edit Profile
+Logout
+Courses
+DSA to Development
+For Working Professionals
+For Students
+For School Students
+All Courses
+Tutorials
+Data Structures & Algorithms
+ML & Data Science
+System Design
+Interview Corner
+Languages
+Web Development
+Web Development In Python
+CS Subjects
+DevOps
+Commerce
+School Learning
+GATE
+Banking Exams Study Material
+UPSC Study Material
+SSC CGL Study Material
+SEO-Search Engine Optimization
+Student
+Jobs
+Get Hired: Apply for Jobs
+Corporate Hiring Solutions
+Practice
+All DSA Problems
+Problem of the Day
+GFG SDE Sheet
+Curated DSA Lists
+Contests
+GATE All India Mock Tests
+HackFest Delhi Hack-A-Thon
+GfG Weekly Coding Contest
+Hiring Contest for Professionals
+All Contests and Events
+
+
+Change Language
+Menu
+
+
+Refresh
+
+Time (IST)	Status	Lang	Test Cases	Code
+2023-11-18 09:37:06	Correct	cpp	1121 / 1121	View
+2023-11-18 09:15:32	Wrong	cpp	10 / 1121	View
+// User function Template for C++
+class Solution {
+  public:
+    vector<int> leastPrimeFactor(int n) {
+        // code here
+        vector<int>v;
+                
+                
+        for(int i=0;i<=n;i++)//1 2 3 4 5 6
+        {
+                if(i==0 || i==1)
+                {
+                    v.push_back(i);
+                }
+            for(int j=2;j<=i;j++)//2 
+            {
+                // v.push_back(1);
+                if(i%j==0)
+                {
+                    v.push_back(j);
+                    break;
+                }
+                // else
+                // {
+                    
+                // }
+            }
+            
+            
+        }
+        return v;
+    }
+};
