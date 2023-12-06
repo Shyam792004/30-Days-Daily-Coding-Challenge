@@ -20,11 +20,22 @@ C++ Array (print an element) | Set 2||
 
 Day 8 Coding Challenge: 20/11/2023 LeetCode - Plus One || HackerRank - Inheritance || GreeksForGreeks - for loop-prime check||
 
-Day 9 Coding Challenge: 24/11/2023 LeetCode - Majority Element || HackerRank - Output formatting  || GreeksForGreeks - Kth smallest element||
+Day 9 Coding Challenge: 24/11/2023 LeetCode - Valid palindrome || HackerRank - Inheritance 2  || GreeksForGreeks - Searching in an array where adjacent differ by at most k ||
+
+Day 10 Coding Challenge: 24/11/2023 LeetCode - Find the index of the first occurence in a string  || HackerRank - Java Date and Time || GreeksForGreeks - Searching in an array where adjacent differ by at most k||
+
+Day 11 Coding Challenge: 24/11/2023 LeetCode - Majority Element || HackerRank - Output formatting  || GreeksForGreeks - Kth smallest element||
 
 Day 12 Coding Challenge: 25/11/2023 LeetCode - Valid Anagram || HackerRank - Java Currency Formatter  || GreeksForGreeks - Missing number in an array||
 
 Day 13 Coding Challenge: 26/11/2023 LeetCode - Is Subsequence || HackerRank - Valid Username Regular Expression  || GreeksForGreeks - k largest elements||
 
-Day 14 Coding Challenge: 27/11/2023 LeetCode - Rotate Array || HackerRank - Java Substring Comparisons
- || GreeksForGreeks - Searching in an array where adjacent differ by at most k ||
+Day 14 Coding Challenge: 27/11/2023 LeetCode - Rotate Array || HackerRank - Java Substring Comparisons|| GreeksForGreeks - Searching in an array where adjacent differ by at most k ||
+
+Day 15 Coding Challenge: 2/11/2023 LeetCode - Search Insert Position || HackerRank - Java iterator|| GreeksForGreeks - Peak element ||
+
+Day 16 Coding Challenge: 3/11/2023 LeetCode - Longest Common Prefix || HackerRank - Java Method Overriding 2 (Super Keyword)|| GreeksForGreeks -  Factorial||
+
+Day 17 Coding Challenge: 4/11/2023 LeetCode - Sqrt(x); || HackerRank - Java Arraylist|| GreeksForGreeks - least prime factor||
+
+Day 18 Coding Challenge: 5/12/2023 LeetCode - remove the duplicates from the sorted list|| HackerRank - Java Abstract class|| GreeksForGreeks - Minimum element in a sorted and rotated array ||
