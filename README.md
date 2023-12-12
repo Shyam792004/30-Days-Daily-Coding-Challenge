@@ -41,3 +41,6 @@ Day 17 Coding Challenge: 4/11/2023 LeetCode - Sqrt(x); || HackerRank - Java Arra
 Day 18 Coding Challenge: 5/12/2023 LeetCode - remove the duplicates from the sorted list|| HackerRank - Java Abstract class|| GreeksForGreeks - Minimum element in a sorted and rotated array ||
 
 Day 19 Coding Challenge: 10/12/2023 LeetCode -Transpose Matrix|| HackerRank - Pattern Syntax Checker|| GreeksForGreeks - Subarray with given sum||
+
+
+Day 20 Coding Challenge: 12/12/2023 LeetCode -  Missing Number|| HackerRank - Java Interface || GreeksForGreeks - Count pairs with given sum||
