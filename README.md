@@ -45,3 +45,5 @@ Day 19 Coding Challenge: 10/12/2023 LeetCode -Transpose Matrix|| HackerRank - Pa
 Day 20 Coding Challenge: 12/12/2023 LeetCode -  Missing Number|| HackerRank - Java Interface || GreeksForGreeks - Count pairs with given sum||
 
 Day 21 Coding Challenge: 13/12/2023 LeetCode - Intersection of Two Arrays || HackerRank - Java Method Overriding || GreeksForGreeks - Common elements||
+
+Day 22 Coding Challenge: 14/12/2023 LeetCode - Find Smallest Letter Greater Than Target|| HackerRank - Java Instanceof keyword|| GreeksForGreeks - Anagram||
