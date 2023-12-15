@@ -1,7 +1,7 @@
 # 30-Days-Daily-Coding-Challenge
-I am thrilled to kick off my '30 Days Daily Coding Contest' today! 💻📅 Over the next 30 days, I'll be dedicating time each day to sharpen my coding skills, tackle new challenges, and expand my knowledge in the world of programming. I encourage you to participate, share your own coding experiences
+**I am thrilled to kick off my '30 Days Daily Coding Contest' today! 💻📅 Over the next 30 days, I'll be dedicating time each day to sharpen my coding skills, tackle new challenges, and expand my knowledge in the world of programming. I encourage you to participate, share your own coding experiences**
 
-Here are the updates :
+**Here are the updates :**
 
 Day 1 Coding Challenge: 13/11/2023 LeetCode - Roman To Integer || HackerRank - Java Anagrams || GreeksForGreeks - Roman Number To Integer||
 
@@ -47,3 +47,5 @@ Day 20 Coding Challenge: 12/12/2023 LeetCode -  Missing Number|| HackerRank - Ja
 Day 21 Coding Challenge: 13/12/2023 LeetCode - Intersection of Two Arrays || HackerRank - Java Method Overriding || GreeksForGreeks - Common elements||
 
 Day 22 Coding Challenge: 14/12/2023 LeetCode - Find Smallest Letter Greater Than Target|| HackerRank - Java Instanceof keyword|| GreeksForGreeks - Anagram||
+
+Day 23 Coding Challenge: 15/12/2023 LeetCode - Minimum Common Value|| HackerRank - Java Regex|| GreeksForGreeks - Palindrome String||
