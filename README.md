@@ -49,3 +49,5 @@ Day 21 Coding Challenge: 13/12/2023 LeetCode - Intersection of Two Arrays || Hac
 Day 22 Coding Challenge: 14/12/2023 LeetCode - Find Smallest Letter Greater Than Target|| HackerRank - Java Instanceof keyword|| GreeksForGreeks - Anagram||
 
 Day 23 Coding Challenge: 15/12/2023 LeetCode - Minimum Common Value|| HackerRank - Java Regex|| GreeksForGreeks - Palindrome String||
+
+Day 24 Coding Challenge: 16/12/2023 LeetCode - Maximum Count of Positive Integer and Negative Integer|| HackerRank -Java Exception Handling (Try-catch)|| GreeksForGreeks - Largest number possible||
