@@ -1,0 +1,75 @@
+Java Sort
+You are given a list of student information: ID, FirstName, and CGPA. Your task is to rearrange them according to their CGPA in decreasing order. If two student have the same CGPA, then arrange them according to their first name in alphabetical order. If those two students also have the same first name, then order them according to their ID. No two students have the same ID.
+Hint: You can use comparators to sort a list of objects. See the oracle docs to learn about comparators.
+
+Input Format
+
+The first line of input contains an integer , representing the total number of students. The next  lines contains a list of student information in the following structure:
+
+ID Name CGPA
+Output Format
+
+After rearranging the students according to the above rules, print the first name of each student on a separate line.
+
+Sample Input
+
+5
+33 Rumpa 3.68
+85 Ashis 3.85
+56 Samiha 3.75
+19 Samara 3.75
+22 Fahim 3.76
+Sample Output
+
+Ashis
+Fahim
+Samara
+Samiha
+Rumpa
+
+CODING:
+import java.io.*;
+import java.util.*;
+import java.util.stream.Collectors;
+
+public class Solution {
+
+    static class Student {
+        int id;
+        String name;
+        double gpa;
+
+        Student(int id, String name, double gpa) {
+            this.id = id;
+            this.name = name;
+            this.gpa = gpa;
+        }
+
+        public int getId() {
+            return id;
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public double getGpa() {
+            return gpa;
+        }
+        
+    }
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        int n = s.nextInt();
+        List<Student> students = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            students.add(new Student(s.nextInt(), s.next(), s.nextDouble()));
+        }
+        List<Student> sortedStudents = students.stream()
+                .sorted(Comparator.comparingDouble(Student::getGpa).reversed()
+                        .thenComparing(Student::getName)
+                        .thenComparing(Student::getId))
+                .collect(Collectors.toList());
+        sortedStudents.forEach(entry -> System.out.println(entry.name));
+    }
+}
