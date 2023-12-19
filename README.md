@@ -53,3 +53,5 @@ Day 23 Coding Challenge: 15/12/2023 LeetCode - Minimum Common Value|| HackerRank
 Day 24 Coding Challenge: 16/12/2023 LeetCode - Maximum Count of Positive Integer and Negative Integer|| HackerRank -Java Exception Handling (Try-catch)|| GreeksForGreeks - Largest number possible||
 
 Day 25 Coding Challenge: 18/12/2023 LeetCode - Count Negative Numbers in a Sorted Matrix|| HackerRank - Java hashset|| GreeksForGreeks - Move all negative elements to end||
+
+Day 26 Coding Challenge: 19/12/2023 LeetCode - Kth Missing Positive Number|| HackerRank - Java sort|| GreeksForGreeks - Find first repeated character||
