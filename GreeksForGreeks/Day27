@@ -1,0 +1,36 @@
+Sum of all prime numbers between 1 and N.
+
+Given a positive integer N, find the sum of all prime numbers between 1 and N(inclusive).
+Example 1:
+Input: N = 5
+Output: 10
+Explanation: 2, 3, and 5 are prime
+numbers between 1 and 5(inclusive).
+Example 2:
+Input: N = 10
+Output: 17
+Explanation: 2, 3, 5 and 7 are prime
+numbers between 1 and 10(inclusive).
+
+CODING:
+class Solution{
+	public:
+   	long long int prime_Sum(int n){
+   	    // Code here
+   	    long long s=0;
+   	    vector<int>prime(n+1,true);
+   	    prime[0]=prime[1]=false;
+   	    for(int i=2;i<=n;i++)
+   	    {
+   	        if(prime[i])
+   	        {
+   	            s+=i;
+   	        }
+   	        for(int j=i*2;j<=n;j=j+i)
+   	        {
+   	            prime[j]=false;
+   	        }
+   	    }
+   	return s;
+   	}    
+};
