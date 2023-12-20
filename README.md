@@ -55,3 +55,6 @@ Day 24 Coding Challenge: 16/12/2023 LeetCode - Maximum Count of Positive Integer
 Day 25 Coding Challenge: 18/12/2023 LeetCode - Count Negative Numbers in a Sorted Matrix|| HackerRank - Java hashset|| GreeksForGreeks - Move all negative elements to end||
 
 Day 26 Coding Challenge: 19/12/2023 LeetCode - Kth Missing Positive Number|| HackerRank - Java sort|| GreeksForGreeks - Find first repeated character||
+
+Day 27 Coding Challenge: 20/12/2023 LeetCode - Furthest Point From Origin||CodingNinjas - Binary Search|| GreeksForGreeks - Sum of all prime numbers between 1 and N.||
+
