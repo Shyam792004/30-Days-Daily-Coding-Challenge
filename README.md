@@ -20,9 +20,9 @@ C++ Array (print an element) | Set 2||
 
 Day 8 Coding Challenge: 20/11/2023 LeetCode - Plus One || HackerRank - Inheritance || GreeksForGreeks - for loop-prime check||
 
-Day 9 Coding Challenge: 24/11/2023 LeetCode - Valid palindrome || HackerRank - Inheritance 2  || GreeksForGreeks - Searching in an array where adjacent differ by at most k ||
+Day 9 Coding Challenge: 22/11/2023 LeetCode - Valid palindrome || HackerRank - Inheritance 2  || GreeksForGreeks - Searching in an array where adjacent differ by at most k ||
 
-Day 10 Coding Challenge: 24/11/2023 LeetCode - Find the index of the first occurence in a string  || HackerRank - Java Date and Time || GreeksForGreeks - Searching in an array where adjacent differ by at most k||
+Day 10 Coding Challenge: 23/11/2023 LeetCode - Find the index of the first occurence in a string  || HackerRank - Java Date and Time || GreeksForGreeks - Searching in an array where adjacent differ by at most k||
 
 Day 11 Coding Challenge: 24/11/2023 LeetCode - Majority Element || HackerRank - Output formatting  || GreeksForGreeks - Kth smallest element||
 
