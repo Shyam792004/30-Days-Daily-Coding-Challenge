@@ -59,3 +59,5 @@ Day 26 Coding Challenge: 19/12/2023 LeetCode - Kth Missing Positive Number|| Hac
 Day 27 Coding Challenge: 20/12/2023 LeetCode - Furthest Point From Origin||CodingNinjas - Binary Search|| GreeksForGreeks - Sum of all prime numbers between 1 and N.||
 
 Day 28 Coding Challenge: 21/12/2023 LeetCode - First Letter to Appear Twice||CodingNinjas - area of rectangle|| GreeksForGreeks - Sieve of Eratosthenes||
+
+Day 29 Coding Challenge: 22/12/2023 LeetCode - Maximum Number of Pairs in Array||CodingNinjas - Largest element in the array|| GreeksForGreeks - Find the closest number||
