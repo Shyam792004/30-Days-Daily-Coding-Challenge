@@ -1,0 +1,26 @@
+Sum of even and odd
+
+CODING:
+vector<int> sumOfEvenOdd(int n) 
+{
+    vector<int> v;
+    int odd = 0, eve = 0;
+
+    while (n > 0) 
+    {
+        int m = n % 10;
+        if (m % 2 == 0)
+         {
+            eve += m;
+        } 
+        else 
+        {
+            odd += m;
+        }
+        n = n / 10;
+    }
+
+    v.push_back(eve);
+    v.push_back(odd);
+    return v;
+}
