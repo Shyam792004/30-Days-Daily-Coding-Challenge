@@ -69,7 +69,7 @@ class Compute
         long ma=a[0];
         for(int i=0;i<n;i++)
         {
-            mi=Math.min(a[i],mi);//it
+            mi=Math.min(a[i],mi);//it compares the current value mi and the a[i] value and update  the minimum value  mi
             ma=Math.max(a[i],ma);
         }
         return new Pair(mi,ma);
